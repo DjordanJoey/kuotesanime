@@ -44,7 +44,7 @@ blockquote {
 
 .anime, .character {
     display: inline-block;
-    padding: 0.7rem 1.5rem;
+    padding: 0.75rem 1.5rem;
     color: var(--light);
     border-radius: 1.5rem;
     font-size: 1.4rem;
@@ -57,10 +57,10 @@ blockquote {
 }
 
 .anime {
-    max-width: 720px; 
+    max-width: 360px;
     background-color: var(--secondary);
-    font-weight: 200;
-    transform: translate(-25%,-25%);
+    font-weight: 400;
+    transform: translate(-25%, 50%);
 }
 
 .character {
